@@ -1,0 +1,11 @@
+{
+    "config":[
+        {
+            "inFile": "inputs/index.js",
+            "outFile": "outputs/index.js"
+        }
+    ],
+    "options":[
+        
+    ]
+}
